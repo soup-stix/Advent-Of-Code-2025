@@ -1,4 +1,4 @@
-with open(r"C:\Users\arul_\Desktop\Anand\Anand CP\AOC_1_input.txt", "r") as f:
+with open(r"01\AOC_1_input.txt", "r") as f:
     lines = f.readlines()
 
 code = 50
